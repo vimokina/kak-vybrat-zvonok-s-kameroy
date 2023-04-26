@@ -1,0 +1,53 @@
+body {
+  font-family: Finlandica, serif;
+  font-size: 20px;
+  line-height: 130%;
+  margin-left: 5%;
+}
+
+p {
+  max-width: 60%;
+  margin: 0 0 .88em 0;
+}
+
+h2 {
+  font-family: Finlandica, serif;
+  max-width: 900px;
+  font-size: 40px;
+  line-height: 110%;
+  font-color: 008080;
+  margin-bottom: 10px;
+}
+
+figure {
+  display: block;
+  margin: 0; 
+  padding: 0; 
+  text-align: left;
+}
+table {
+   border-collapse: collapse;
+   vertical-align: top;
+   width: 80%;
+
+}
+
+td {
+  width: 20%;
+  vertical-align: top;
+  padding-right: 5px;
+  padding-top: 8px;
+}
+
+.cat {
+  width: 15%;
+}
+
+.foto {
+  max-width: 80%;
+}
+
+.text2 {
+  font-size: 15px;
+  color: #696969;
+}
